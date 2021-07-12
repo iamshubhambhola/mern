@@ -2,9 +2,9 @@
   "name": "mern_shop",
   "version": "1.0.0",
   "description": "learning while made",
-  "main": "server.js",  
+  "main": "server.js",
   "engines": {
-    "node": "14.16.1"
+    "node": "14.x"
   },
   "scripts": {
     "client-install": "npm install --prefix client",

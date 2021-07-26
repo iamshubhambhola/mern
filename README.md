@@ -325,6 +325,7 @@ in order to use concurrently add following in package.json ---> scripts of backe
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   }
+  
 /////////////////////////////////////////////////////////////////////////////////////
 
 Now goto package.json of react app client folder add following before DEPENDENCIES {  }:
